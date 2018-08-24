@@ -48,11 +48,11 @@
 	<icon src="icons/ios/80x80.png" gap:platform="ios" width="80" height="80" />
 	
 	<!-- Android -->
-	<icon src="icons/android/36x36.png" gap:platform="android" gap:density="ldpi" />
+<!-- 	<icon src="icons/android/36x36.png" gap:platform="android" gap:density="ldpi" />
 	<icon src="icons/android/48x48.png" gap:platform="android" gap:density="mdpi" />
 	<icon src="icons/android/72x72.png" gap:platform="android" gap:density="hdpi" />
 	<icon src="icons/android/96x96.png" gap:platform="android" gap:density="xhdpi" />
-	<icon src="icons/android/144x144.png" gap:platform="android" gap:qualifier="xxhdpi" />
+	<icon src="icons/android/144x144.png" gap:platform="android" gap:qualifier="xxhdpi" /> -->
 
 	<!-- Windows Phone -->
 	<icon src="icons/wp/icon.png" gap:platform="winphone" />
